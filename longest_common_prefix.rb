@@ -26,3 +26,4 @@ end
 puts longest_common_prefix ["flower", "flow", "flight"]
 puts longest_common_prefix ["dog", "racecar", "car"]
 puts longest_common_prefix [""]
+puts longest_common_prefix ["a"]
