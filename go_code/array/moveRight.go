@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	arr := []int{1, 2, 3, 4, 5}
+	arr := []int{1, 2}
 
 	for k, v := range moveRight(arr, 2) {
 		fmt.Printf("k = %d, v = %d\n", k, v)
@@ -27,6 +27,9 @@ func reverse(arr []int, begin, end int) {
 // moveRight 数组右移k位
 func moveRight(arr []int, k int) []int {
 	len := len(arr)
+	if len <= 1 {
+		return arr
+	}
 	reverse(arr, 0, len-1)
 	reverse(arr, 0, k-1)
 	reverse(arr, k, len-1)
