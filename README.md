@@ -7,6 +7,7 @@
 2. 二叉树前序遍历([No.144](https://github.com/JieTrancender/leetcode/pull/3#issue-563805265))
 3. 二叉树后续遍历([No.155](https://github.com/JieTrancender/leetcode/pull/4#issue-563813820))
 4. 二叉树的最大深度([No.104](https://github.com/JieTrancender/leetcode/pull/6#issue-563865100))
+5. 二叉树的层次遍历([No.102](https://github.com/JieTrancender/leetcode/pull/8#issue-563884598))
 
 
 二：数组类题目
