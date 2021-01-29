@@ -4,6 +4,7 @@
 一：树类题目
 
 1. 二叉树中序遍历([#94](https://github.com/JieTrancender/leetcode/pull/1#issue-563787056))
+2. 二叉树前序遍历([#144](https://github.com/JieTrancender/leetcode/pull/3#issue-563805265))
 
 二：数组类题目
 
