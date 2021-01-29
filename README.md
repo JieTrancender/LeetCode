@@ -9,5 +9,5 @@
 
 二：数组类题目
 
-1. 子集([#78](https://github.com/JieTrancender/leetcode/pull/2#issue-563790800))
+1. 实现str-str([#28](https://github.com/JieTrancender/leetcode/pull/2#issue-563790800))
 
